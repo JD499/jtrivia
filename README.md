@@ -1,6 +1,6 @@
 # JTrivia API
 
-JTrivia is a trivia API that provides trivia questions, categories, and other related data; data is populated through the help of jService api
+JTrivia is a trivia API that provides trivia questions, categories, and other related data. Data is populated with the help of [jService API](http://jservice.io/).
 
 ## Getting Started
 
